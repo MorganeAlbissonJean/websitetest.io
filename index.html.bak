@@ -11,7 +11,11 @@
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
   <body class="is-preload">
-    <p style="background-image: url('bg.png');">
+    <style>
+			body {
+ 				background-image: url('img_girl.jpg');
+			}
+		</style>
     </p>
     <!-- Wrapper -->
     <div id="wrapper">
