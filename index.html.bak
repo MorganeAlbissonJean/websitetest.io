@@ -11,12 +11,6 @@
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
   <body class="is-preload">
-    <style>
-			body {
- 				background-image: url('img_girl.jpg');
-			}
-		</style>
-    </p>
     <!-- Wrapper -->
     <div id="wrapper">
       <!-- Header -->
